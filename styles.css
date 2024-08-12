@@ -1,0 +1,29 @@
+body div + p + p{
+    color: red;
+}
+
+/* p ~ p {
+    color: red;
+    este operador selecciona los elementos que preceden
+} */
+
+div ~ p{
+    font-size: 30px;
+}
+
+span > p{
+    color: aquamarine;
+}
+
+img{
+    width: 150px;
+    aspect-ratio: 1;
+}
+
+img[title = "red"]{
+    border: 5px solid yellow;
+}
+
+#firstname{
+    background-color: blanchedalmond !important;
+}
