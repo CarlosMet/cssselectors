@@ -63,17 +63,18 @@ Copiar código
 .container p {
     font-size: 2em; /* 2 * 24px = 48px */
 /* } */
+/*
 En este caso, el tamaño de fuente del párrafo (p) dentro de .container será 48px porque toma como referencia el tamaño de fuente calculado del contenedor, que es 24px.
 
-2. Unidad rem:
+/* 2. Unidad rem:
 Relativa a la raíz (<html>): La unidad rem (root em) se basa siempre en el tamaño de la fuente del elemento raíz (<html>), sin importar en qué parte del árbol DOM se encuentre el elemento.
 Constante en el árbol: A diferencia de em, rem no se ve afectado por la jerarquía de elementos y siempre hace referencia al tamaño de fuente de html.
 Ejemplo de rem:
 css
-Copiar código
+Copiar código */
 /* Supongamos que el tamaño de fuente del html es 16px
 html { */
-    font-size: 16px;
+    /* font-size: 16px; */
 
 /* 
 .container {
@@ -82,7 +83,7 @@ html { */
 /* .container p {
     font-size: 2rem; /* 2 * 16px = 32px */
 
-*/
+
 /* En este caso, el tamaño de fuente del párrafo (p) dentro de .container será 32px porque rem siempre hace referencia al tamaño de fuente del html, que es 16px.
 
 Resumen de las diferencias: */
@@ -102,4 +103,3 @@ Usa em si necesitas que el tamaño de un elemento sea relativo al tamaño de fue
 
 
 
-*/
