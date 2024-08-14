@@ -1,11 +1,11 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="#7cbf4e" stroke="#7cbf4e">
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="#3c096c" stroke="#3c096c">
   <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#7cbf4e" stroke-width="0.4800000000000001"></g>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#3c096c" stroke-width="0.4800000000000001"></g>
   <g id="SVGRepo_iconCarrier" transform="scale(-1, 1) translate(-48, 0)">
     <defs>
-      <style>.a{stroke:#7cbf4e;stroke-linecap:round;stroke-linejoin:round;}</style>
+      <style>.a{stroke:#3c096c;stroke-linecap:round;stroke-linejoin:round;}</style>
     </defs>
-    <path class="a" d="M10.57,4.5l7.85,2.87-.05,27.16L28.8,28.48l-5.2-2.8L20.32,17.5,37.2,23.38l.23,9L18.37,43.5,10.65,39Z" fill="#7cbf4e"></path>
+    <path class="a" d="M10.57,4.5l7.85,2.87-.05,27.16L28.8,28.48l-5.2-2.8L20.32,17.5,37.2,23.38l.23,9L18.37,43.5,10.65,39Z" fill="3c096c"></path>
   </g>
 </svg>
 
